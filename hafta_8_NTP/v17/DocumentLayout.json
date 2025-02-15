@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\urkut\\source\\repos\\hafta_8_NTP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC83AEB1-A095-447D-BC49-B14E01044C91}|hafta_8_NTP.csproj|c:\\users\\urkut\\source\\repos\\hafta_8_ntp\\cemberprivate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC83AEB1-A095-447D-BC49-B14E01044C91}|hafta_8_NTP.csproj|solutionrelative:cemberprivate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC83AEB1-A095-447D-BC49-B14E01044C91}|hafta_8_NTP.csproj|c:\\users\\urkut\\source\\repos\\hafta_8_ntp\\statikcember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC83AEB1-A095-447D-BC49-B14E01044C91}|hafta_8_NTP.csproj|solutionrelative:statikcember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC83AEB1-A095-447D-BC49-B14E01044C91}|hafta_8_NTP.csproj|c:\\users\\urkut\\source\\repos\\hafta_8_ntp\\c1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC83AEB1-A095-447D-BC49-B14E01044C91}|hafta_8_NTP.csproj|solutionrelative:c1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CemberPrivate.cs",
+              "DocumentMoniker": "C:\\Users\\urkut\\source\\repos\\hafta_8_NTP\\CemberPrivate.cs",
+              "RelativeDocumentMoniker": "CemberPrivate.cs",
+              "ToolTip": "C:\\Users\\urkut\\source\\repos\\hafta_8_NTP\\CemberPrivate.cs",
+              "RelativeToolTip": "CemberPrivate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T09:42:32.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "C1.cs",
+              "DocumentMoniker": "C:\\Users\\urkut\\source\\repos\\hafta_8_NTP\\C1.cs",
+              "RelativeDocumentMoniker": "C1.cs",
+              "ToolTip": "C:\\Users\\urkut\\source\\repos\\hafta_8_NTP\\C1.cs",
+              "RelativeToolTip": "C1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T20:29:21.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StatikCember.cs",
+              "DocumentMoniker": "C:\\Users\\urkut\\source\\repos\\hafta_8_NTP\\StatikCember.cs",
+              "RelativeDocumentMoniker": "StatikCember.cs",
+              "ToolTip": "C:\\Users\\urkut\\source\\repos\\hafta_8_NTP\\StatikCember.cs",
+              "RelativeToolTip": "StatikCember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:25:20.415Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
