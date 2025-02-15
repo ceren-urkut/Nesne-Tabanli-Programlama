@@ -1,0 +1,14 @@
+C:\Users\urkut\source\repos\NesneTabanliProgramlama\NesneTabanliProgramlama1\bin\Debug\net6.0\NesneTabanliProgramlama1.exe
+C:\Users\urkut\source\repos\NesneTabanliProgramlama\NesneTabanliProgramlama1\bin\Debug\net6.0\NesneTabanliProgramlama1.deps.json
+C:\Users\urkut\source\repos\NesneTabanliProgramlama\NesneTabanliProgramlama1\bin\Debug\net6.0\NesneTabanliProgramlama1.runtimeconfig.json
+C:\Users\urkut\source\repos\NesneTabanliProgramlama\NesneTabanliProgramlama1\bin\Debug\net6.0\NesneTabanliProgramlama1.dll
+C:\Users\urkut\source\repos\NesneTabanliProgramlama\NesneTabanliProgramlama1\bin\Debug\net6.0\NesneTabanliProgramlama1.pdb
+C:\Users\urkut\source\repos\NesneTabanliProgramlama\NesneTabanliProgramlama1\obj\Debug\net6.0\NesneTabanliProgramlama1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urkut\source\repos\NesneTabanliProgramlama\NesneTabanliProgramlama1\obj\Debug\net6.0\NesneTabanliProgramlama1.AssemblyInfoInputs.cache
+C:\Users\urkut\source\repos\NesneTabanliProgramlama\NesneTabanliProgramlama1\obj\Debug\net6.0\NesneTabanliProgramlama1.AssemblyInfo.cs
+C:\Users\urkut\source\repos\NesneTabanliProgramlama\NesneTabanliProgramlama1\obj\Debug\net6.0\NesneTabanliProgramlama1.csproj.CoreCompileInputs.cache
+C:\Users\urkut\source\repos\NesneTabanliProgramlama\NesneTabanliProgramlama1\obj\Debug\net6.0\NesneTabanliProgramlama1.dll
+C:\Users\urkut\source\repos\NesneTabanliProgramlama\NesneTabanliProgramlama1\obj\Debug\net6.0\refint\NesneTabanliProgramlama1.dll
+C:\Users\urkut\source\repos\NesneTabanliProgramlama\NesneTabanliProgramlama1\obj\Debug\net6.0\NesneTabanliProgramlama1.pdb
+C:\Users\urkut\source\repos\NesneTabanliProgramlama\NesneTabanliProgramlama1\obj\Debug\net6.0\NesneTabanliProgramlama1.genruntimeconfig.cache
+C:\Users\urkut\source\repos\NesneTabanliProgramlama\NesneTabanliProgramlama1\obj\Debug\net6.0\ref\NesneTabanliProgramlama1.dll
